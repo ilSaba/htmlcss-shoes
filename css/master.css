@@ -1,0 +1,61 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.description{
+  font-size: 50px;
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.block-one{
+  position: relative;
+  background-color: red;
+  width: 100vw;
+  height: 100vh;
+}
+
+.block-two{
+  position: relative;
+  background-color: yellow;
+  width: 100vw;
+  height: 100vh;
+}
+
+.block-three{
+  position: relative;
+  background-color: green;
+  width: 100vw;
+  height: 100vh;
+}
+
+.scarpa-uno{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width:540px;
+  height: auto;
+}
+
+.scarpa-due{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width:540px;
+  height: auto;
+}
+
+.scarpa-tre{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width:540px;
+  height: auto;
+}
