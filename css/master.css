@@ -4,12 +4,32 @@
   box-sizing: border-box;
 }
 
-.description{
-  font-size: 50px;
+body{
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.descr-1{
+  color: yellow;
+  text-transform:uppercase;
+  font-size: 80px;
   position: absolute;
   top: 75%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+.descr-2{
+  color: yellow;
+  text-transform:uppercase;
+  font-size: 80px;
+  position: absolute;
+  top: 83%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.D2{
+  color: blue;
 }
 
 .block-one{
